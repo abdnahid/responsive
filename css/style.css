@@ -1,0 +1,24 @@
+.heading-1{
+    width: 80%;
+    margin: auto;
+}
+.logo-color{
+    background-color: #ceedec;
+}
+
+.support-heading{
+	width:60%;
+	margin: auto;
+}
+
+.general-font-size{
+	font-size: 22px !important;
+}
+
+.imp-des{
+	background-color: #79d5ed;
+}
+.footer-size{
+	width: 300px;
+	margin: auto;
+}
